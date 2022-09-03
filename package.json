@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon index.js"
   },
   "author": "raj",
   "license": "ISC",
@@ -15,6 +15,6 @@
     "joi": "^17.6.0",
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^4.9.0",
-   
+    "nodemon": "^2.0.19"
   }
 }
